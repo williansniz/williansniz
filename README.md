@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @williansniz, I'm brazilian, M.Sc and geographer
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Python and Data Science
+- 📫 How to reach me in willians_niz@hotmail.com
